@@ -1,0 +1,5 @@
+file bin/server
+target remote 0.0.0.0:12345
+layout split
+b *main
+c
